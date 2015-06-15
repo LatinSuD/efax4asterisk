@@ -1,0 +1,1 @@
+This is a simple Asterisk AGI script which utilizes Digiums fax for asterisk and other applications to send faxes as a pdf to an email address.  For more details including system requirements, installation, and configuration samples see the [wiki pages](http://code.google.com/p/efax4asterisk/w/list).
